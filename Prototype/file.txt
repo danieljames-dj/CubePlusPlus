@@ -1,0 +1,600 @@
+AA americanAirlines 5 done
+AB abacus 5 done
+AC airCooler 5 done
+AD advertisement 5 done
+AE aerosol 5 done
+AF airForce 5 done
+AG agSilver 5 done
+AH airHorn 5 done
+AI aiBot 5 done
+AJ ajSam 5 done
+AK ak47 5 done
+AL allenJose 5 done
+AM amyJackson 5 done
+AN Annie 5 done
+AO aolong 5 done
+AP apple 5 done
+AQ aquarium 5 done
+AR arrow 5 done
+AS astronaut 5 done
+AT atlas 5 done
+AU goldAu 5 done
+AV avatar 5 done
+AW alwa 5 done
+AX axe 5 done
+BA batman 5 done
+BB bulbasaur 5 done
+BC bicycle 5 done
+BD beedril 5 done
+BE bee 5 done
+BF beef 5 done
+BG bag 5 done
+BH beehive 5 done
+BI bird 5 done
+BJ boxerJockey 0
+BK barbarianKing 5 done
+BL bell 5 done
+BM BMW 5 done
+BN mrBean 5 done
+BO bomb 5 done
+BP anandBP 5 done
+BQ barbequeChicken 5 done
+BR baskinRobbins 5 done
+BS bus 2
+BT boot 5 done
+BU bull 5 done
+BV muslimWife 5 done
+BW bowler 5 done
+BX box 5 done
+CA camera 5 done
+CB cabVehicleOfZoho 5 done
+CC cctv 5 done
+CD cdDrive 5 done
+CE cement 5 done
+CF coffee 5 done
+CG cage 5 done
+CH cheerGirl 5 done
+CI circleInspector 5 done
+CJ courtJudge 0
+CK cake 5 done
+CL cloneMachine 5 done
+CM chiefMinisterOommen 5 done
+CN coneIcecream 4
+CO coke 5 done
+CP cap 5 done
+CQ cyndaquil 5 done
+CR cross 5 done
+CS csdept 5 done
+CT cat 5 done
+CU cutieGirl 5 done
+CV cvResume 5 done
+CW cow 5 done
+CX maruCXbrand 5 done
+DA datingPlace 5 done
+DB dhabaHotel 5 done
+DC dcCollegeNithin 5 done
+DD doordarshan 5 done
+DE dentist 5 done
+DF dolphin 1
+DG diglett 5 done
+DH dohaLylaMam 5 done
+DI dataInterpretationSheet 5 done
+DJ djDany 5 done
+DK donkey 5 done
+DL dellLaptop 5 done
+DM damshararts 5 done
+DN don 5 done
+DO dodio 5 done
+DP diaper 5 done
+DQ dulquer 5 done
+DR dragon 5 done
+DS dataStructureBook 5 done
+DT dittoPokemon 5 done
+DU duke 0
+DV divaSoap 5 done
+DW dewDrops 5 done
+DX dustux 5 done
+EA eaCricket 5 done
+EB eyeBall 5 done
+EC ecKit 5 done
+ED eddieCurrentNCERT 5 done
+EE eevee 5 done
+EF elephant 3
+EG egg 5 done
+EH ehehehBySususudi 5 done
+EI electricalInspector 5 done
+EJ electronicJournal 3
+EK ekThaTigerMovie 5 done
+EL eli 5 done
+EM emperor 5 done
+EN envelope 5 done
+EO tailOfCEO 5 done
+EP epicPlay 4
+EQ equationBook 5 done
+ER ernakulamCity 5 done
+ES esFileExplorer 5 done
+ET etiosCar 5 done
+EU eucalyptus 5 done
+EV everest 5 done
+EW emmaWatson 5 done
+EX exGF 5 done
+FA faxMachine 5 done
+FB facebook 5 done
+FC fcBarsaJersey 5 done
+FD fixedDepositCard 5 done
+FE feeStructureBook 5 done
+FF fifa 5 done
+FG fog 5 done
+FH fish 3
+FI fiddle 5 done
+FJ fiji 5 done
+FK fuck 5 done
+FL falooda 5 done
+FM foam 5 done
+FN fan 5 done
+FO fossil 5 done
+FP flap 5 done
+FQ faqSheet 5 done
+FR fire 5 done
+FS fashionShow 5 done
+FT feetSolver 5 done
+FU fullBottle 0
+FV fiveFingers 5 done
+FW flower 5 done
+FX fox 5 done
+GA gays 5 done
+GB girishBhatia 5 done
+GC goldCrown 0
+GD generalDiary 5 done
+GE generalElectric 5 done
+GF girlFriend 5 done
+GG gregaryAppooppan 5 done
+GH greenHouseGas 0
+GI giJoe 5 done
+GJ gujarat 5 done
+GK gkClass 5 done
+GL golem 5 done
+GM gomata 5 done
+GN gun 5 done
+GO goli 0
+GP grapes 5 done
+GQ greenQueen 0
+GR grass 5 done
+GS gsPradeep 5 done
+GT gate 5 done
+GU gunda 5 done
+GV gaviBus 5 done
+GW grandWarden 5 done
+GX gixtraAlgoSheet 5 done
+HA harpic 5 done
+HB hayaboosa 5 done
+HC hcVermaText 5 done
+HD hardDisk 5 done
+HE hercules 5 done
+HF hotFudge 5 done
+HG hug 5 done
+HH hohoPokemon 5 done
+HI wavingHi 5 done
+HJ highJumpGround 5 done
+HK hongKong 5 done
+HL haloween 5 done
+HM headMasterSir 5 done
+HN hen 5 done
+HO hodNizar 5 done
+HP hewlettPackad 5 done
+HQ hqVideo 5 done
+HR hrManager 5 done
+HS hose 5 done
+HT homeTutor 5 done
+HU hunter 0
+HV heaven 5 done
+HW homework 5 done
+HX hexagonRing 5 done
+IA iataCourse 5 done
+IB ibmCompany 5 done
+IC icFood 5 done
+ID idCard 5 done
+IE internetExplorer 5 done
+IF iftharDinner 5 done
+IG igloo 5 done
+IH incredibleHulk 4
+II iInTheShapeOfChickenX2 5 done
+IJ injury 1
+IK ikkaFans 5 done
+IL island 5 done
+IM ironMan 5 done
+IN IndiaFlag 5 done
+IO ioDevices 5 done
+IP ipRouter 5 done
+IQ iqScoreCard 5 done
+IR irDiode 5 done
+IS isisTeevravadi 5 done
+IT itCompany 5 done
+IU oneToOneCommunication 5 done
+IV ivTicket 5 done
+IW iceWagon 5 done
+IX ixigoSiteForDelhi 5 done
+JA jalianwalaBhag 0
+JB jukebox 5 done
+JC jcb 5 done
+JD jayadeep 5 done
+JE jumpIfEqualASMlanguage 5 done
+JF jellyFish 5 done
+JG juniorG 0
+JH jacksonsHouse 3
+JI jigsawPuzzle 0
+JJ justinJoju 5 done
+JK jayasankar 5 done
+JL jail 5 done
+JM jamKissan 5 done
+JN jeans 3
+JO joTheBoy 5 done
+JP jpNagarBanglore 5 done
+JQ jaquiline 5 done
+JR jar 5 done
+JS jasmine 5 done
+JT jet 5 done
+JU juleeTheDog 5 done
+JV javaBook 5 done
+JW jews 5 done
+JX jynx 5 done
+KA kangaroo 0
+KB kababChicken 5 done
+KC kickFootball 5 done
+KD kid 5 done
+KE ketchup 5 done
+KF kfc 5 done
+KG kinderGarden 5 done
+KH keyhole 0
+KI kite 5 done
+KJ kjYesudas 5 done
+KK krishnaKumar 5 done
+KL keralaVehicleBoard 5 done
+KM kilometersRide 5 done
+KN knight 5 done
+KO kolkataJersey 5 done
+KP akhilKP 5 done
+KQ kingQueenRomance 5 done
+KR krishna 5 done
+KS ksChitra 5 done
+KT kattappa 5 done
+KU keralaUniverrsity 5 done
+KV kendriyaVidyalaya 5 done
+KW kiwi 5 done
+KX kexAMchannel 5 done
+LA labBiology 5 done
+LB lbsitw 5 done
+LC lcSachin 5 done
+LD laddu 5 done
+LE lee 5 done
+LF leaf 5 done
+LG legs 5 done
+LH ladiesHostel 5 done
+LI lips 5 done
+LJ lalJose 5 done
+LK lock 5 done
+LL lalMamen 5 done
+LM lamb 0
+LN linJustin 5 done
+LO lolipop 5 done
+LP laptop 5 done
+LQ liquor 5 done
+LR lara 5 done
+LS lassi 5 done
+LT lottery 5 done
+LU lukhman 5 done
+LV lavaOfMosquito 5 done
+LW lawAcademy 5 done
+LX laxAirport 5 done
+MA maAdhitya 5 done
+MB mableGeorge 5 done
+MC mic 5 done
+MD mud 5 done
+ME middleEastShakes 0
+MF muffler 5 done
+MG mahatmaGandhi 5 done
+MH mensHostel 5 done
+MI mipad 5 done
+MJ mariaJohny 5 done
+MK mkAswin 5 done
+ML malluGirl 5 done
+MM mariaMathews 5 done
+MN manishaPrabhu 5 done
+MO mobilePhone 0
+MP mpInParliament 5 done
+MQ multiQueue 0
+MR mrfBat 5 done
+MS msDhoni 5 done
+MT pastorMT 5 done
+MU muscleMan 1
+MV mavelikkaraStation 5 done
+MW mew 5 done
+MX maxBroOfMay 5 done
+NA naruto 0
+NB nabeesu 5 done
+NC arunNC 5 done
+ND needle 4
+NE knee 5 done
+NF knife 5 done
+NG naagSnake 5 done
+NH nationalHighway 5 done
+NI nileRiver 5 done
+NJ ninja 4
+NK nandakishoreCOC 5 done
+NL nailCutter 5 done
+NM namitha 5 done
+NN naginaSuresh 5 done
+NO nose 5 done
+NP napPillow 5 done
+NQ northQueenslandAustralia 1
+NR narendraModi 5 done
+NS nasaSpace 5 done
+NT nuts 5 done
+NU nurulIslamHotel 3
+NV niviaForMen 5 done
+NW northwestCountry 5 done
+NX nexus7 5 done
+OA overAgedMan 5 done
+OB obama 5 done
+OC octopus 5 done
+OD oddish 5 done
+OE opticalEffect 5 done
+OF outFielder 1
+OG originalGangster 5 done
+OH bhargav 5 done
+OI oil 5 done
+OJ ouijaBoard 5 done
+OK okKanmaniCouples 5 done
+OL olMuslim 5 done
+OM omkarKibe 5 done
+ON onion 5 done
+OO oreoBiscuit 5 done
+OP opDevices 5 done
+OQ oldQuillPen 5 done
+OR orange 5 done
+OS osProcessesLab 5 done
+OT otpMessage 5 done
+OU outDoorGames 5 done
+OV oven 5 done
+OW owlVelliMoonga 5 done
+OX ox 5 done
+PA pakistan 5 done
+PB pubParty 5 done
+PC personalComputer 5 done
+PD podium 5 done
+PE pekka 5 done
+PF puffs 5 done
+PG penguin 5 done
+PH phPaper 5 done
+PI pikachu 5 done
+PJ poorJoker 5 done
+PK peekay 5 done
+PL plate 5 done
+PM pmManmohanSingh 5 done
+PN pen 5 done
+PO police 5 done
+PP poppins 5 done
+PQ policeQuota 5 done
+PR prawns 5 done
+PS playstation 5 done
+PT pot 5 done
+PU pumaShoe 5 done
+PV pvcPipe 5 done
+PW powerPunch 5 done
+PX pixelCam 5 done
+QA done
+QB done
+QC done
+QD done
+QE done
+QF done
+QG done
+QH done
+QI done
+QJ done
+QK done
+QL done
+QM done
+QN done
+QO done
+QP done
+QQ done queen
+QR done
+QS done
+QT done
+QU done
+QV done
+QW done
+QX done
+RA rabbit 5 done
+RB rubber 5 done
+RC racingCar 0
+RD rider 5 done
+RE replayCricket 5 done
+RF roof 5 done
+RG ragamSong 5 done
+RH rohanMammenRoy 5 done
+RI rice 0
+RJ rjSamira 5 done
+RK rock 5 done
+RL railway 0
+RM rum 5 done
+RN rain 2
+RO rookPiece 2
+RP rapper 5 done
+RQ racquet 5 done
+RR rareeram 5 done
+RS nithinRS 5 done
+RT rat 5 done
+RU rubyStone 0
+RV ravan 5 done
+RW rawFruits 5 done
+RX rexonaSoap 5 done
+SA satellite 0
+SB submarine 5 done
+SC scorpion 5 done
+SD sdCard 5 done
+SE seaShells 2
+SF superFastKSRTC 5 done
+SG singapore 5 done
+SH shTevara 5 done
+SI sissy 5 done
+SJ spicejet 5 done
+SK skelton 5 done
+SL slCinemas 5 done
+SM smoke 1
+SN sun 5 done
+SO soda 5 done
+SP suprendOfPolice 5 done
+SQ squirtle 5 done
+SR sirRavindraJadeja 5 done
+SS sajinSS 5 done
+ST star 5 done
+SU superUserRoot 5 done
+SV savingsAccount 5 done
+SW subway 0
+SX sextape 5 done
+TA tank 5 done
+TB table 5 done
+TC tcCertificate 5 done
+TD taadi 5 done
+TE tent 5 done
+TF transformer 0
+TG theGreatFather 5 done
+TH townhall 5 done
+TI texasInstruments 5 done
+TJ trojan 5 done
+TK aswathyTK 5 done
+TL tallManIshant 5 done
+TM tamy 5 done
+TN toney 5 done
+TO togepi 5 done
+TP tap 5 done
+TQ talquish 5 done
+TR teacher 5 done
+TS tsunami 2
+TT thottamMilan 5 done
+TU tub 5 done
+TV television 5 done
+TW tower 5 done
+TX textureTile 5 done
+UA unitedAmericans 5 done
+UB upperBerthSleeper 5 done
+UC ucBrowser 5 done
+UD uberDriver 5 done
+UE userEquipment 5 done
+UF ufoInSpace 5 done
+UG uglyPalunk 5 done
+UH utilityHelicopter 5 done
+UI uiWebsite 5 done
+UJ ujala 5 done
+UK ukChampionship 5 done
+UL unorderedLists 5 done
+UM umbrella 5 done
+UN unoCards 5 done
+UO unOfficialComp 5 done
+UP uttarPradesh 5 done
+UQ uttarQuilon 5 done
+UR urine 5 done
+US usBushes 5 done
+UT universityTopper 5 done
+UU ubuntuOS 5 done
+UV uvEmitter 5 done
+UW universityOfWashington 5 done
+UX userExperienceAndroid 5 done
+VA vagina 5 done
+VB volleyball 0
+VC vacuum 5 done
+VD vada 5 done
+VE vendingMachine 1
+VF venusFly 1
+VG videoGame 0
+VH vanHeusen 5 done
+VI vimBar 5 done
+VJ vjRenu 5 done
+VK valkyrie 5 done
+VL volvoBus 5 done
+VM virtualMachineVMware 5 done
+VN van 5 done
+VO volcano 5 done
+VP vicePrincipalSir 5 done
+VQ evacuationTube 5 done
+VR virtualRealityGame 5 done
+VS vsAchuth 5 done
+VT vote 1
+VU vulture 0
+VV vava 5 done
+VW volkswagen 5 done
+VX vix 5 done
+WA waterBottle 5 done
+WB wabaffet 5 done
+WC witch 5 done
+WD wideBowler 5 done
+WE welder 2
+WF waterFall 4
+WG wig 5 done
+WH whale 5 done
+WI wisemen 5 done
+WJ wijayActor 5 done
+WK wikipedia 5 done
+WL well 2
+WM worm 5 done
+WN window 0
+WO wolf 5 done
+WP weapons 5 done
+WQ waqarYounis 5 done
+WR wrFeliks 5 done
+WS waseOfFlower 5 done
+WT waiter 5 done
+WU wallsUp 1
+WV waves 5 done
+WW worldWideWeb 5 done
+WX wax 5 done
+XA done
+XB done
+XC done
+XD done
+XE done
+XF done
+XG done
+XH done
+XI done
+XJ done
+XK done
+XL done
+XM done
+XN done
+XO done
+XP done
+XQ done
+XR done
+XS done
+XT done
+XU done
+XV done
+XW done
+XX xsquareStudyMaterial
+YA articuno 5 done
+YB bayleef 5 done
+YC charizard 5 done
+YD deoxys 5 done
+YE ekans 5 done
+YF farfetched 5 done
+YG golbat 5 done
+YH horsea 5 done
+YI ivysaur 5 done
+YJ jigglypuff 5 done
+YK kakuna 5 done
+YL lickitung 5 done
+YM magmar 5 done
+YN noctowl 5 done
+YO onix 5 done
+YP pidgeotto 5 done
+YQ quilava 5 done
+YR raichu 5 done
+YS scyther 5 done
+YT torchic 5 done
+YU umbreon 5 done
+YV vulpix 5 done
+YW wynaut 5 done
+YX xatu 5 done
