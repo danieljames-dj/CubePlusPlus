@@ -131,12 +131,9 @@ void quiz() {
 			y = rand() % (24);
 		} while (chances[x][y] == 1 || dataCount[x][y] == 3);
 		chances[x][y] = 1;
-		if (x == 16 || x == 23 || x == 24) {
-			chances[16][y] = chances[23][y] = chances[24][y] = 1;
-		}
 		cout << (char)('A' + x) << (char)('A' + y) << "? : ";
-		cin >> p;
-		if (x == 16 || x == 23) x = 24;
+		cin.ignore();
+		cin.ignore();
 		cout << data[x][y][0] << ". Correct (1) or wrong (0)?";
 		cin >> p;
 		if (p == 1) c++;
