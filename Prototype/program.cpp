@@ -66,6 +66,7 @@ int showMenu() {
 	<< "\n\t3. Get particular data"
 	<< "\n\t4. Quiz"
 	<< "\n\t5. Status"
+	<< "\n\t6. Reset"
 	<< "\nEnter option : ";
 	cin >> x;
 	return x;
@@ -179,8 +180,17 @@ void status() {
 		}
 	}
 	cout << "Frequencies : \n";
-	freq[0] -= 48;
 	for (int i = 0; i < 6; i++) cout << i << " : " << freq[i] << endl;
+}
+
+void reset() {
+	for (int i = 0; i < 25; i++) {
+		for (int j = 0; j < 24; j++) {
+			data[i][j][1] = '0';
+		}
+	}
+	writeFile();
+	readFile();
 }
 
 int main() {
@@ -194,6 +204,7 @@ int main() {
 			case 3: opParticular(); break;
 			case 4: quiz(); break;
 			case 5: status(); break;
+			case 6: reset(); break;
 			default: return 0;
 		}
 	}
