@@ -1,600 +1,600 @@
-AA americanAirlines
-AB abacus
-AC airCooler
-AD advertisement
-AE aerosol
-AF airForce
-AG agSilver
-AH airHorn
-AI aiBot
-AJ ajSam
-AK ak47
-AL allenJose
-AM amyJackson
-AN Annie
-AO aolong
-AP apple
-AQ aquarium
-AR arrow
-AS astronaut
-AT atlas
-AU goldAu
-AV avatar
-AW alwa
-AX axe
-BA batman
-BB bulbasaur
-BC bicycle
-BD beedril
-BE bee
-BF beef
-BG bag
-BH beehive
-BI bird
-BJ boxerJockey
-BK barbarianKing
-BL bell
-BM BMW
-BN mrBean
-BO bomb
-BP anandBP
-BQ barbequeChicken
-BR baskinRobbins
-BS bus
-BT boot
-BU bull
-BV muslimWife
-BW bowler
-BX box
-CA camera
-CB cabVehicleOfZoho
-CC cctv
-CD cdDrive
-CE cement
-CF coffee
-CG cage
-CH cheerGirl
-CI circleInspector
-CJ courtJudge
-CK cake
-CL cloneMachine
-CM chiefMinisterOommen
-CN coneIcecream
-CO coke
-CP cap
-CQ cyndaquil
-CR cross
-CS csdept
-CT cat
-CU cutieGirl
-CV cvResume
-CW cow
-CX maruCXbrand
-DA datingPlace
-DB dhabaHotel
-DC dcCollegeNithin
-DD doordarshan
-DE dentist
-DF dolphin
-DG diglett
-DH dohaLylaMam
-DI dataInterpretationSheet
-DJ djDany
-DK donkey
-DL dellLaptop
-DM damshararts
-DN don
-DO dodio
-DP diaper
-DQ dulquer
-DR dragon
-DS dataStructureBook
-DT dittoPokemon
-DU duke
-DV divaSoap
-DW dewDrops
-DX dustux
-EA eaCricket
-EB eyeBall
-EC ecKit
-ED eddieCurrentNCERT
-EE eevee
-EF elephant
-EG egg
-EH ehehehBySususudi
-EI electricalInspector
-EJ electronicJournal
-EK ekThaTigerMovie
-EL eli
-EM emperor
-EN envelope
-EO tailOfCEO
-EP epicPlay
-EQ equationBook
-ER ernakulamCity
-ES esFileExplorer
-ET etiosCar
-EU eucalyptus
-EV everest
-EW emmaWatson
-EX exGF
-FA faxMachine
-FB facebook
-FC fcBarsaJersey
-FD fixedDepositCard
-FE feeStructureBook
-FF fifa
-FG fog
-FH fish
-FI fiddle
-FJ fiji
-FK fuck
-FL falooda
-FM foam
-FN fan
-FO fossil
-FP flap
-FQ faqSheet
-FR fire
-FS fashionShow
-FT feetSolver
-FU fullBottle
-FV fiveFingers
-FW flower
-FX fox
-GA gays
-GB girishBhatia
-GC goldCrown
-GD generalDiary
-GE generalElectric
-GF girlFriend
-GG gregaryAppooppan
-GH greenHouseGas
-GI giJoe
-GJ gujarat
-GK gkClass
-GL golem
-GM gomata
-GN gun
-GO goli
-GP grapes
-GQ greenQueen
-GR grass
-GS gsPradeep
-GT gate
-GU gunda
-GV gaviBus
-GW grandWarden
-GX gixtraAlgoSheet
-HA harpic
-HB hayaboosa
-HC hcVermaText
-HD hardDisk
-HE hercules
-HF hotFudge
-HG hug
-HH hohoPokemon
-HI wavingHi
-HJ highJumpGround
-HK hongKong
-HL haloween
-HM headMasterSir
-HN hen
-HO hodNizar
-HP hewlettPackad
-HQ hqVideo
-HR hrManager
-HS hose
-HT homeTutor
-HU hunter
-HV heaven
-HW homework
-HX hexagonRing
-IA iataCourse
-IB ibmCompany
-IC icFood
-ID idCard
-IE internetExplorer
-IF iftharDinner
-IG igloo
-IH incredibleHulk
-II iInTheShapeOfChickenX2
-IJ injury
-IK ikkaFans
-IL island
-IM ironMan
-IN IndiaFlag
-IO ioDevices
-IP ipRouter
-IQ iqScoreCard
-IR irDiode
-IS isisTeevravadi
-IT itCompany
-IU oneToOneCommunication
-IV ivTicket
-IW iceWagon
-IX ixigoSiteForDelhi
-JA jalianwalaBhag
-JB jukebox
-JC jcb
-JD jayadeep
-JE jumpIfEqualASMlanguage
-JF jellyFish
-JG jug
-JH jacksonsHouse
-JI jigsawPuzzle
-JJ justinJoju
-JK jayasankar
-JL jail
-JM jamKissan
-JN jeans
-JO joTheBoy
-JP jpNagarBanglore
-JQ jaquiline
-JR jar
-JS jasmine
-JT jet
-JU juleeTheDog
-JV javaBook
-JW jews
-JX jynx
-KA kangaroo
-KB kababChicken
-KC kickFootball
-KD kid
-KE ketchup
-KF kfc
-KG kinderGarden
-KH keyhole
-KI kite
-KJ kjYesudas
-KK krishnaKumar
-KL keralaVehicleBoard
-KM kilometersRide
-KN knight
-KO kolkataJersey
-KP akhilKP
-KQ kingQueenRomance
-KR krishna
-KS ksChitra
-KT kattappa
-KU keralaUniverrsity
-KV kendriyaVidyalaya
-KW kiwi
-KX kexAMchannel
-LA labBiology
-LB lbsitw
-LC lcSachin
-LD laddu
-LE lee
-LF leaf
-LG legs
-LH ladiesHostel
-LI lips
-LJ lalJose
-LK lock
-LL lalMamen
-LM lamb
-LN linJustin
-LO lolipop
-LP laptop
-LQ liquor
-LR lara
-LS lassi
-LT lottery
-LU lukhman
-LV lavaOfMosquito
-LW lawAcademy
-LX laxAirport
-MA maAdhitya
-MB mableGeorge
-MC mic
-MD mud
-ME middleEastShakes
-MF muffler
-MG mahatmaGandhi
-MH mensHostel
-MI mipad
-MJ mariaJohny
-MK mkAswin
-ML malluGirl
-MM mariaMathews
-MN manishaPrabhu
-MO mobilePhone
-MP mpInParliament
-MQ multiQueue
-MR mrfBat
-MS msDhoni
-MT pastorMT
-MU muscleMan
-MV mavelikkaraStation
-MW mew
-MX maxBroOfMay
-NA naruto
-NB nabeesu
-NC arunNC
-ND needle
-NE knee
-NF knife
-NG naagSnake
-NH nationalHighway
-NI nileRiver
-NJ ninja
-NK nandakishoreCOC
-NL nailCutter
-NM namitha
-NN naginaSuresh
-NO nose
-NP napPillow
-NQ northQueenslandAustralia
-NR narendraModi
-NS nasaSpace
-NT nuts
-NU nurulIslamHotel
-NV niviaForMen
-NW northwestCountry
-NX nexus7
-OA overAgedMan
-OB obama
-OC octopus
-OD oddish
-OE opticalEffect
-OF outFielder
-OG originalGangster
-OH bhargav
-OI oil
-OJ ouijaBoard
-OK okKanmaniCouples
-OL olMuslim
-OM omkarKibe
-ON onion
-OO oreoBiscuit
-OP opDevices
-OQ oldQuillPen
-OR orange
-OS osProcessesLab
-OT otpMessage
-OU outDoorGames
-OV oven
-OW owlVelliMoonga
-OX ox
-PA pakistan
-PB pubParty
-PC personalComputer
-PD podium
-PE pekka
-PF puffs
-PG penguin
-PH phPaper
-PI pikachu
-PJ poorJoker
-PK peekay
-PL plate
-PM pmManmohanSingh
-PN pen
-PO police
-PP poppins
-PQ policeQuota
-PR prawns
-PS playstation
-PT pot
-PU pumaShoe
-PV pvcPipe
-PW powerPunch
-PX pixelCam
-QA articuno with full white
-QB bayleef with full white
-QC charizard with full white
-QD deoxys with full white
-QE ekans with full white
-QF farfetched with full white
-QG golbat with full white
-QH horsea with full white
-QI ivysaur with full white
-QJ jigglypuff with full white
-QK kakuna with full white
-QL lickitung with full white
-QM magmar with full white
-QN noctowl with full white
-QO onix with full white
-QP pidgeotto with full white
-QQ archer queen
-QR raichu with full white
-QS scyther with full white
-QT torchic with full white
-QU umbreon with full white
-QV vulpix with full white
-QW wynaut with full white
-QX xatu with full white
-RA rabbit
-RB rubber
-RC racingCar
-RD rider
-RE replayCricket
-RF roof
-RG ragamSong
-RH rohanMammenRoy
-RI rice
-RJ rjSamira
-RK rock
-RL railway
-RM rum
-RN rain
-RO rookPiece
-RP rapper
-RQ racquet
-RR rareeram
-RS nithinRS
-RT rat
-RU rubyStone
-RV ravan
-RW rawFruits
-RX rexonaSoap
-SA satellite
-SB submarine
-SC scorpion
-SD sdCard
-SE seaShells
-SF superFastKSRTC
-SG singapore
-SH shTevara
-SI sissy
-SJ spicejet
-SK skelton
-SL slCinemas
-SM smoke
-SN sun
-SO soda
-SP suprendOfPolice
-SQ squirtle
-SR sirRavindraJadeja
-SS sajinSS
-ST star
-SU superUserRoot
-SV savingsAccount
-SW subway
-SX sextape
-TA tank
-TB table
-TC tcCertificate
-TD taadi
-TE tent
-TF transformer
-TG theGreatFather
-TH townhall
-TI texasInstruments
-TJ trojan
-TK aswathyTK
-TL tallManIshant
-TM tamy
-TN toney
-TO togepi
-TP tap
-TQ talquish
-TR teacher
-TS tsunami
-TT thottamMilan
-TU tub
-TV television
-TW tower
-TX textureTile
-UA unitedAmericans
-UB upperBerthSleeper
-UC ucBrowser
-UD uberDriver
-UE userEquipment
-UF ufoInSpace
-UG uglyPalunk
-UH utilityHelicopter
-UI uiWebsite
-UJ ujala
-UK ukChampionship
-UL unorderedLists
-UM umbrella
-UN unoCards
-UO unOfficialComp
-UP uttarPradesh
-UQ uttarQuilon
-UR urine
-US usBushes
-UT universityTopper
-UU ubuntuOS
-UV uvEmitter
-UW universityOfWashington
-UX userExperienceAndroid
-VA vagina
-VB volleyball
-VC vacuum
-VD vada
-VE vendingMachine
-VF venusFly
-VG videoGame
-VH vanHeusen
-VI vimBar
-VJ vjRenu
-VK valkyrie
-VL volvoBus
-VM virtualMachineVMware
-VN van
-VO volcano
-VP vicePrincipalSir
-VQ evacuationTube
-VR virtualRealityGame
-VS vsAchuth
-VT vote
-VU vulture
-VV vava
-VW volkswagen
-VX vexAlbum
-WA waterBottle
-WB wabaffet
-WC witch
-WD wideBowler
-WE welder
-WF waterFall
-WG wig
-WH whale
-WI wisemen
-WJ wijayActor
-WK wikipedia
-WL well
-WM worm
-WN window
-WO wolf
-WP weapons
-WQ waqarYounis
-WR wrFeliks
-WS waseOfFlower
-WT waiter
-WU wallsUp
-WV waves
-WW worldWideWeb
-WX wax
-XA articuno with just a cap
-XB bayleef with just a cap
-XC charizard with just a cap
-XD deoxys with just a cap
-XE ekans with just a cap
-XF farfetched with just a cap
-XG golbat with just a cap
-XH horsea with just a cap
-XI ivysaur with just a cap
-XJ jigglypuff with just a cap
-XK kakuna with just a cap
-XL lickitung with just a cap
-XM magmar with just a cap
-XN noctowl with just a cap
-XO onix with just a cap
-XP pidgeotto with just a cap
-XQ quilava with just a cap
-XR raichu with just a cap
-XS scyther with just a cap
-XT torchic with just a cap
-XU umbreon with just a cap
-XV vulpix with just a cap
-XW wynaut with just a cap
-XX xatu with just a cap
-YA articuno
-YB bayleef
-YC charizard
-YD deoxys
-YE ekans
-YF farfetched
-YG golbat
-YH horsea
-YI ivysaur
-YJ jigglypuff
-YK kakuna
-YL lickitung
-YM magmar
-YN noctowl
-YO onix
-YP pidgeotto
-YQ quilava
-YR raichu
-YS scyther
-YT torchic
-YU umbreon
-YV vulpix
-YW wynaut
-YX xatu
+AA skip 5 done
+AB abacus 5 done
+AC airCooler 5 done
+AD advertisement 5 done
+AE aerosol 3
+AF airForce 5 done
+AG agSilver 5 done
+AH airHorn 5 done
+AI aiBot 5 done
+AJ ajSam 5 done
+AK ak47 5 done
+AL allenJose 5 done
+AM amyJackson 5 done
+AN Annie 5 done
+AO aolong 5 done
+AP apple 4
+AQ aquarium 5 done
+AR arrow 2
+AS astronaut 5 done
+AT atlas 5 done
+AU goldAu 1
+AV avatar 5 done
+AW alwa 5 done
+AX axe 5 done
+BA batman 2
+BB skip 5 done
+BC bicycle 2
+BD beedril 5 done
+BE bee 5 done
+BF beef 5 done
+BG bag 5 done
+BH beehive 5 done
+BI bird 3
+BJ boxerJockey 0
+BK barbarianKing 4
+BL bell 5 done
+BM BMW 5 done
+BN mrBean 5 done
+BO bomb 5 done
+BP anandBP 5 done
+BQ barbequeChicken 5 done
+BR baskinRobbins 2
+BS bus 0
+BT boot 5 done
+BU bull 2
+BV muslimWife 4
+BW bowler 5 done
+BX box 2
+CA camera 3
+CB cabVehicleOfZoho 5 done
+CC skip 5 done
+CD cdDrive 5 done
+CE cement 5 done
+CF coffee 0
+CG cage 5 done
+CH cheerGirl 2
+CI circleInspector 5 done
+CJ courtJudge 1
+CK cake 2
+CL cloneMachine 5 done
+CM chiefMinisterOommen 5 done
+CN coneIcecream 4
+CO coke 5 done
+CP cap 5 done
+CQ cyndaquil 5 done
+CR cross 1
+CS csdept 5 done
+CT cat 5 done
+CU cupcake 0
+CV cvResume 5 done
+CW cow 5 done
+CX maruCXbrand 5 done
+DA datingPlace 5 done
+DB dhabaHotel 5 done
+DC dcCollegeNithin 5 done
+DD skip 4
+DE dentist 5 done
+DF dolphin 0
+DG diglett 5 done
+DH dohaLylaMam 5 done
+DI dataInterpretationSheet 2
+DJ djDany 5 done
+DK donkey 5 done
+DL dellLaptop 5 done
+DM damshararts 5 done
+DN don 5 done
+DO dodio 3
+DP diaper 5 done
+DQ dulquer 5 done
+DR dragon 5 done
+DS dataStructureBook 3
+DT dittoPokemon 3
+DU duke 4
+DV divaSoap 5 done
+DW dewDrops 5 done
+DX dustux 1
+EA eaCricket 5 done
+EB eyeBall 5 done
+EC ecKit 5 done
+ED eddieCurrentNCERT 5 done
+EE skip 5 done
+EF elephant 2
+EG egg 5 done
+EH ehehehBySususudi 5 done
+EI electricalInspector 5 done
+EJ electronicJournal 5 done
+EK ekThaTigerMovie 5 done
+EL eli 4
+EM emperor 4
+EN envelope 5 done
+EO tailOfCEO 3
+EP epicPlay 5 done
+EQ equationBook 5 done
+ER ernakulamCity 5 done
+ES esFileExplorer 5 done
+ET etiosCar 5 done
+EU eucalyptus 5 done
+EV everest 5 done
+EW emmaWatson 5 done
+EX exGF 5 done
+FA faxMachine 0
+FB facebook 5 done
+FC fcBarsaJersey 4
+FD fixedDepositCard 1
+FE feeStructureBook 5 done
+FF skip 4
+FG fog 5 done
+FH fish 2
+FI fiddle 5 done
+FJ fiji 5 done
+FK fuck 5 done
+FL falooda 5 done
+FM foam 5 done
+FN fan 5 done
+FO fossil 5 done
+FP flap 5 done
+FQ faqSheet 5 done
+FR fire 5 done
+FS fashionShow 5 done
+FT feetSolver 5 done
+FU fullBottle 0
+FV fiveFingers 5 done
+FW flower 3
+FX fox 5 done
+GA gays 5 done
+GB girishBhatia 5 done
+GC goldCrown 3
+GD generalDiary 0
+GE generalElectric 5 done
+GF girlFriend 5 done
+GG skip 5 done
+GH greenHouseGas 1
+GI giJoe 5 done
+GJ gujarat 5 done
+GK gkClass 3
+GL golem 4
+GM gomata 5 done
+GN gun 5 done
+GO goli 2
+GP grapes 4
+GQ greenQueen 0
+GR grass 4
+GS gsPradeep 5 done
+GT gate 5 done
+GU gunda 5 done
+GV gaviBus 5 done
+GW grandWarden 5 done
+GX gixtraAlgoSheet 5 done
+HA harpic 5 done
+HB hayaboosa 5 done
+HC hcVermaText 5 done
+HD hardDisk 5 done
+HE hercules 5 done
+HF hotFudge 0
+HG hug 5 done
+HH skip 5 done
+HI wavingHi 4
+HJ highJumpGround 0
+HK hongKong 5 done
+HL haloween 3
+HM headMasterSir 5 done
+HN hen 5 done
+HO hodNizar 5 done
+HP hewlettPackad 5 done
+HQ hqVideo 5 done
+HR hrManager 5 done
+HS hose 5 done
+HT homeTutor 3
+HU hunter 5 done
+HV heaven 5 done
+HW homework 5 done
+HX hexagonRing 5 done
+IA iataCourse 5 done
+IB ibmCompany 5 done
+IC icFood 5 done
+ID idCard 5 done
+IE internetExplorer 5 done
+IF iftharDinner 5 done
+IG igloo 5 done
+IH incredibleHulk 5 done
+II skip 3
+IJ injury 1
+IK ikkaFans 5 done
+IL island 0
+IM ironMan 0
+IN IndiaFlag 5 done
+IO ioDevices 5 done
+IP ipRouter 5 done
+IQ iqScoreCard 5 done
+IR irDiode 3
+IS isisTeevravadi 5 done
+IT itCompany 5 done
+IU oneToOneCommunication 3
+IV ivTicket 5 done
+IW iceWagon 5 done
+IX ixigoSiteForDelhi 5 done
+JA jalianwalaBhag 0
+JB jukebox 3
+JC jcb 5 done
+JD jayadeep 5 done
+JE jumpIfEqualASMlanguage 3
+JF jellyFish 5 done
+JG jug 0
+JH jacksonsHouse 0
+JI jigsawPuzzle 3
+JJ skip 5 done
+JK jayasankar 5 done
+JL jail 5 done
+JM jamKissan 2
+JN jeans 3
+JO joTheBoy 5 done
+JP jpNagarBanglore 5 done
+JQ jaquiline 5 done
+JR jar 5 done
+JS jasmine 5 done
+JT jet 4
+JU juleeTheDog 5 done
+JV javaBook 4
+JW jews 5 done
+JX jynx 4
+KA kangaroo 3
+KB kababChicken 5 done
+KC kickFootball 2
+KD kid 5 done
+KE ketchup 5 done
+KF kfc 5 done
+KG kinderGarden 0
+KH keyhole 5 done
+KI kite 5 done
+KJ kjYesudas 5 done
+KK skip 5 done
+KL keralaVehicleBoard 5 done
+KM kilometersRide 2
+KN knight 0
+KO kolkataJersey 5 done
+KP akhilKP 5 done
+KQ kingQueenRomance 5 done
+KR krishna 5 done
+KS ksChitra 5 done
+KT kattappa 5 done
+KU keralaUniverrsity 5 done
+KV kendriyaVidyalaya 5 done
+KW kiwi 5 done
+KX kexAMchannel 5 done
+LA labBiology 0
+LB lbsitw 5 done
+LC lcSachin 5 done
+LD laddu 5 done
+LE lee 5 done
+LF leaf 5 done
+LG legs 5 done
+LH ladiesHostel 5 done
+LI lips 3
+LJ lalJose 5 done
+LK lock 1
+LL skip 2
+LM lamb 1
+LN linJustin 5 done
+LO lolipop 5 done
+LP laptop 5 done
+LQ liquor 5 done
+LR lara 5 done
+LS lassi 5 done
+LT lottery 5 done
+LU lukhman 5 done
+LV lavaOfMosquito 5 done
+LW lawAcademy 5 done
+LX laxAirport 2
+MA maAdhitya 5 done
+MB mableGeorge 5 done
+MC mic 5 done
+MD mud 5 done
+ME middleEastShakes 0
+MF muffler 5 done
+MG mahatmaGandhi 0
+MH mensHostel 5 done
+MI mipad 5 done
+MJ mariaJohny 5 done
+MK mkAswin 5 done
+ML malluGirl 5 done
+MM skip 5 done
+MN manishaPrabhu 5 done
+MO mobilePhone 5 done
+MP mpInParliament 4
+MQ maqManglore 0
+MR mrfBat 5 done
+MS msDhoni 5 done
+MT pastorMT 5 done
+MU muscleMan 3
+MV mavelikkaraStation 5 done
+MW mew 5 done
+MX maxBroOfMay 5 done
+NA naruto 2
+NB nabeesu 5 done
+NC arunNC 1
+ND needle 5 done
+NE knee 5 done
+NF knife 5 done
+NG naagSnake 5 done
+NH nationalHighway 5 done
+NI nileRiver 5 done
+NJ ninja 5 done
+NK nandakishoreCOC 5 done
+NL nailCutter 0
+NM namitha 5 done
+NN skip 5 done
+NO nose 5 done
+NP napPillow 5 done
+NQ northQueenslandAustralia 3
+NR narendraModi 5 done
+NS nasaSpace 1
+NT nuts 5 done
+NU nurulIslamHotel 5 done
+NV niviaForMen 5 done
+NW northwestCountry 5 done
+NX nexus7 5 done
+OA overAgedMan 3
+OB obama 5 done
+OC octopus 5 done
+OD oddish 5 done
+OE opticalEffect 5 done
+OF outFielder 2
+OG originalGangster 1
+OH bhargav 5 done
+OI oil 5 done
+OJ ouijaBoard 5 done
+OK okKanmaniCouples 5 done
+OL olMuslim 5 done
+OM omkarKibe 5 done
+ON onion 5 done
+OO skip 4
+OP opDevices 5 done
+OQ oldQuillPen 5 done
+OR orange 3
+OS osProcessesLab 5 done
+OT otpMessage 5 done
+OU outDoorGames 0
+OV oven 5 done
+OW owlVelliMoonga 5 done
+OX ox 5 done
+PA pakistan 5 done
+PB pubParty 4
+PC personalComputer 5 done
+PD podium 5 done
+PE pekka 5 done
+PF puffs 5 done
+PG penguin 0
+PH phPaper 5 done
+PI pikachu 5 done
+PJ poorJoker 5 done
+PK peekay 4
+PL plate 3
+PM pmManmohanSingh 5 done
+PN pen 3
+PO police 4
+PP skip 5 done
+PQ policeQuota 3
+PR prawns 5 done
+PS playstation 4
+PT pot 5 done
+PU pumaShoe 5 done
+PV pvcPipe 5 done
+PW powerPunch 5 done
+PX pixelCam 5 done
+QA chatApp 0
+QB chubbyCheeks 1
+QC chicken 0
+QD chaandMoon 0
+QE cheating 0
+QF chef 0
+QG chug 1
+QH chahana 0
+QI qiyiSquan 3
+QJ chajaNehru 0
+QK chekbook 0
+QL chilli 0
+QM chimney 1
+QN queen 0
+QO chorusBook 0
+QP chopstick 0
+QQ skip 5 done
+QR charizard 1
+QS cheese 0
+QT chariot 0
+QU church 0
+QV cheviEar 2
+QW chewingGum 0
+QX qutex 0
+RA rabbit 5 done
+RB rubber 5 done
+RC racingCar 0
+RD rider 5 done
+RE replayCricket 5 done
+RF roof 0
+RG ragamSong 5 done
+RH rohanMammenRoy 5 done
+RI rice 0
+RJ rjSamira 5 done
+RK rock 3
+RL railway 5 done
+RM rum 1
+RN rain 3
+RO rookPiece 1
+RP rapper 5 done
+RQ racquet 5 done
+RR skip 5 done
+RS nithinRS 5 done
+RT rat 5 done
+RU rubyStone 5 done
+RV ravan 5 done
+RW rawFruits 5 done
+RX rexonaSoap 5 done
+SA satellite 3
+SB submarine 0
+SC scorpion 5 done
+SD sdCard 5 done
+SE seaShells 1
+SF superFastKSRTC 5 done
+SG singapore 4
+SH shTevara 5 done
+SI sissy 5 done
+SJ spicejet 5 done
+SK skelton 5 done
+SL slCinemas 5 done
+SM smoke 0
+SN sun 5 done
+SO soda 5 done
+SP suprendOfPolice 1
+SQ squirtle 5 done
+SR sirRavindraJadeja 5 done
+SS skip 5 done
+ST star 5 done
+SU superUserRoot 4
+SV savingsAccount 0
+SW subway 2
+SX sextape 5 done
+TA tank 0
+TB table 1
+TC tcCertificate 5 done
+TD taadi 5 done
+TE tent 5 done
+TF transformer 0
+TG theGreatFather 5 done
+TH townhall 5 done
+TI texasInstruments 4
+TJ trojan 5 done
+TK aswathyTK 5 done
+TL tallManIshant 5 done
+TM tamy 5 done
+TN toney 5 done
+TO togepi 4
+TP tap 5 done
+TQ talquish 5 done
+TR teacher 5 done
+TS tsunami 5 done
+TT skip 5 done
+TU tub 5 done
+TV television 5 done
+TW tower 5 done
+TX textureTile 0
+UA unitedAmericans 5 done
+UB upperBerthSleeper 0
+UC ucBrowser 5 done
+UD uberDriver 4
+UE userEquipment 5 done
+UF ufoInSpace 5 done
+UG uglyPalunk 5 done
+UH utilityHelicopter 5 done
+UI uiWebsite 5 done
+UJ ujala 5 done
+UK ukChampionship 5 done
+UL unorderedLists 0
+UM umbrella 3
+UN unoCards 5 done
+UO unOfficialComp 0
+UP uttarPradesh 5 done
+UQ uttarQuilon 5 done
+UR urine 5 done
+US usBushes 5 done
+UT universityTopper 3
+UU skip 5 done
+UV uvEmitter 5 done
+UW universityOfWashington 1
+UX userExperienceAndroid 5 done
+VA vagina 5 done
+VB volleyball 2
+VC vacuum 2
+VD vada 5 done
+VE vendingMachine 1
+VF venusFly 5 done
+VG videoGame 0
+VH vanHeusen 5 done
+VI vimBar 2
+VJ vjRenu 5 done
+VK valkyrie 2
+VL volvoBus 3
+VM virtualMachineVMware 2
+VN van 1
+VO volcano 5 done
+VP vicePrincipalSir 5 done
+VQ evacuationTube 5 done
+VR virtualRealityGame 5 done
+VS vsAchuth 5 done
+VT vote 5 done
+VU vulture 2
+VV skip 4
+VW volkswagen 5 done
+VX vexAlbum 5 done
+WA waterBottle 0
+WB wabaffet 3
+WC witch 5 done
+WD wideBowler 5 done
+WE welder 0
+WF waterFall 0
+WG wig 5 done
+WH whale 5 done
+WI wisemen 5 done
+WJ wijayActor 5 done
+WK wikipedia 5 done
+WL well 0
+WM worm 5 done
+WN window 0
+WO wolf 5 done
+WP weapons 2
+WQ waqarYounis 5 done
+WR wrFeliks 5 done
+WS waseOfFlower 5 done
+WT waiter 5 done
+WU wallsUp 0
+WV waves 5 done
+WW skip 5 done
+WX wax 5 done
+XA ZaraNotebook 0
+XB zimbabwe 1
+XC zocDoc 0
+XD XDclass 0
+XE zebra 0
+XF zaifAliKhan 0
+XG zigzag 0
+XH zoho 0
+XI zindagi 0
+XJ zojaRajkumari 0
+XK zuckerburg 0
+XL xoloPhone 0
+XM zoom 0
+XN zenCar 0
+XO zoo 1
+XP zip 0
+XQ zincSulphate 0
+XR zraank 0
+XS Zeshwan 0
+XT zeetaHall 0
+XU zubahSun 0
+XV xavierArun 0
+XW weezle 0
+XX skip 5 done
+YA airplane 1
+YB bulbasaur 4
+YC cctv 0
+YD doordarshan 1
+YE eevee 0
+YF fifa 1
+YG gregary 0
+YH hoho 0
+YI ivysaur 0
+YJ justinjoju 0
+YK krishnakumar 0
+YL lalmamen 0
+YM mariamathews 1
+YN nagina 1
+YO oreo 1
+YP poppins 0
+YQ quiz 0
+YR rareeram 0
+YS sajin 0
+YT tottam 0
+YU ubuntuOS 0
+YV vava 1
+YW worldwideweb 0
+YX x2maths 0

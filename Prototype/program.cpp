@@ -2,6 +2,7 @@
 #include <fstream>
 #include <cstdlib>
 #include <time.h>
+#include <cstdlib>
 #define FILENAME "file.txt"
 
 using namespace std;
@@ -118,6 +119,7 @@ void quiz() {
 	int n, c = 0, chances[25][24];
 	cout << "Enter number of questions : ";
 	cin >> n;
+	time_t t1, t2;
 	for (int i = 0; i < 25; i++) {
 		for (int j = 0; j < 24; j++) {
 			chances[i][j] = 0;
@@ -125,23 +127,27 @@ void quiz() {
 	}
 	for (int i = 0; i < n; i++) {
 		int x, y, p;
+		cout << "Question " << i + 1 << "\n";
 		srand(time(NULL));
 		do {
 			x = rand() % (25);
 			y = rand() % (24);
 		} while (chances[x][y] == 1 || dataCount[x][y] == 3);
 		chances[x][y] = 1;
+		time(&t1);
 		cout << (char)('A' + x) << (char)('A' + y) << "? : ";
 		cin.ignore();
 		cin.ignore();
+		time(&t2);
 		cout << data[x][y][0] << ". Correct (1) or wrong (0)?";
+		cout << " Time = " << t2 - t1 << " seconds";
 		cin >> p;
-		if (p == 1) c++;
+		if (p) c++;
 		if (dataCount[x][y] == 1) {
 			dataCount[x][y] = 2;
 			data[x][y][1] = "0";
 		}
-		if (p == 1) {
+		if (p && t2 - t1 <= 1) {
 			string t = data[x][y][1];
 			if (t.compare("0") == 0) data[x][y][1] = "1";
 			if (t.compare("1") == 0) data[x][y][1] = "2";
@@ -152,12 +158,14 @@ void quiz() {
 				dataCount[x][y] = 3;
 				data[x][y][2] = "done";
 				cout << "\n\n***MASTERED " << data[x][y][0] << "***\n\n";
+				cout.flush();
 			}
 		} else if (p == 0) {
 			data[x][y][1] = "0";
 		}
 	}
 	cout << "Test completed with " << c << "/" << n <<"...\n";
+	cout.flush();
 	writeFile();
 	readFile();
 }
@@ -184,6 +192,7 @@ void reset() {
 	for (int i = 0; i < 25; i++) {
 		for (int j = 0; j < 24; j++) {
 			data[i][j][1] = '0';
+			dataCount[i][j] = 2;
 		}
 	}
 	writeFile();
